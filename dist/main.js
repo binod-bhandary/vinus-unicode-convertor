@@ -1,0 +1,2 @@
+(()=>{"use strict";var t={22:(e,r,t)=>{const o=function(e){return console.log(e)};e=t.hmd(e),o("A very warm welcome to Expack!"),void 0!==e.hot&&e.hot.accept()}},o={};function n(e){if(o[e])return o[e].exports;var r=o[e]={id:e,loaded:!1,exports:{}};return t[e](r,r.exports,n),r.loaded=!0,r.exports}n.hmd=e=>((e=Object.create(e)).children||(e.children=[]),Object.defineProperty(e,"exports",{enumerable:!0,set:()=>{throw new Error("ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: "+e.id)}}),e),n(22)})();
+//# sourceMappingURL=main.js.map
